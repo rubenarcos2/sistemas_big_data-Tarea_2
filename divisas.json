@@ -1,0 +1,9 @@
+{
+    cambio_divisas_euro:{
+        "dolar": 1.13,
+        "libra": 0.84,
+        "yen": 128.98,
+        "real_br": 6.19
+    }
+
+}
